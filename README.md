@@ -13,7 +13,8 @@ Here's a picture of the wroking web app:
 
 
 --So here as you can see, this web app supports emoji chat,sending gifs,uploading videos,files(most importantly reports for doctors) and many more. <br></br>
---Here as the image shows the doctor can have conversation with other doctors with replying to thiermessage, creating a thread (see right side of image)
+--As you can see in image, this web app also shows timing of message along with date,month,year.<br></br>
+--Here as the image shows the doctor can have conversation with other doctors with replying to thiermessage, creating a thread, pinning a message (see right side of image)
 and can can even react to their messages along with how many other doctors are currenlty online status.<br></br>
 -- This web app also comes with authentication security with sign up and sign in facilities. <br></br>
 <hr></hr>
