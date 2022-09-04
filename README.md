@@ -1,4 +1,4 @@
--- It’s a Full Stack complete Real Time Chat Application build using React,Node.JS,Express and many other exciting libraries along with authentication feature.
+-- It’s a <strong>Full Stack complete Real Time Chat Application </strong> build using React,Node.JS,Express and many other exciting libraries along with authentication feature.
 <br></br>
 -- It’s primarily made for a centralized and dedicated platform for hospital staff (doctors, nurses,staffs etc) to have a perfect connection through this real time chat    application using this they can chat with other doctors, can send reports, files, and can even send videos.
 <br></br>
