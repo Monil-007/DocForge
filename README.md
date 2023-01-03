@@ -18,7 +18,7 @@ Here's a picture of the wroking web app:
 and can can even react to their messages along with how many other doctors are currenlty online status.<br></br>
 -- This web app also comes with authentication security with sign up and sign in facilities. <br></br>
 <hr></hr>
--- Here is the hoisted link of the webapp: https://medichats18.netlify.app/
+
 <br></br>
 -- To use the webapp with acustomized experience and to get a demo click on "sign in" in bottom of webapp and use this details for sign in– username: sam , password: samsam  
 <br></br> (You can always later create your account on this web app)
