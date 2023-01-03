@@ -20,9 +20,3 @@ and can can even react to their messages along with how many other doctors are c
 <hr></hr>
 
 <br></br>
--- To use the webapp with acustomized experience and to get a demo click on "sign in" in bottom of webapp and use this details for sign in– username: sam , password: samsam  
-<br></br> (You can always later create your account on this web app)
-<br></br>
--- Go through the link and have a look on this awesome project.
-<br></br>
--- Dont forget to star this repository!!
