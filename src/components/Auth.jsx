@@ -31,10 +31,10 @@ const Auth = () => {
         console.log(form);
         const { username, password, phoneNumber, avatarURL } = form;
 
-        const URL = 'http://localhost:3000/auth';
+        const URL = 'http://localhost:3000';
         //const URL = 'https://medichat18.herokuapp.com/auth';
 
-        const { data: { token, userId, hashedPassword, fullName } } = await axios.post(`${URL}/${isSignup ? 'signup' : 'signin'}`, {
+        const { data: { token, userId, hashedPassword, fullName } } = await axios.post(`${URL}/auth/${isSignup ? 'signup' : 'signin'}`, {
             username, password, fullName: form.fullName, phoneNumber, avatarURL,
         });
 
